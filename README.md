@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 
-I am a Full Stack Software Engineer passionate about building scalable web applications, enterprise ERP systems, and AI powered solutions.
+I am a Full Stack Software Engineer passionate about building scalable applications, enterprise ERP systems, and AI powered solutions.
 
 Currently working with React, Next.js, TypeScript, NestJS, Node.js, and PostgreSQL to develop modern, high performance applications.
 
