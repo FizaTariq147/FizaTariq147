@@ -1,3 +1,14 @@
+# Hi, I'm Fiza Tariq 
+
+### Full Stack Software Engineer
+
+I am a Full Stack Software Engineer passionate about building scalable web applications, enterprise ERP systems, and AI powered solutions.
+
+Currently working with React, Next.js, TypeScript, NestJS, Node.js, and PostgreSQL to develop modern, high performance applications.
+
+-  Currently learning: System Design, Cloud Technologies, AI Integration
+-  Working as: Full Stack Developer
+-  Interested in: SaaS, ERP Systems, AI, and Modern Web & App Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fiza-tariq-a37877264/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fizatariq147@gmail.com) 
