@@ -1,6 +1,6 @@
 # Hi, I'm Fiza Tariq 
 
-### Full Stack Software Engineer
+### Full Stack Developer
 
 I am a Full Stack Software Engineer passionate about building scalable applications, enterprise ERP systems, and AI powered solutions.
 
